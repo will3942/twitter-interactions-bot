@@ -6,7 +6,7 @@ Simple Ruby bot, scrapes mobile web to get latest interactions. Adds them to a m
 Requirements
 --------
 
-Ruby
+Ruby  
 MongoDB
 
 Installation
